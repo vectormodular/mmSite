@@ -20,11 +20,10 @@ This module is ideal for a variety of applications, from programming complex dru
 
 ## Features
 
-- Internal clock generator, defined by knob or tap tempo
-- Ability to accept incoming clock signal to define tempo
-- Reset input via button, trig or gate
-- Last modified tempo is the active tempo
-- LED for current beat
+- Internal clock generator, defined via knob or tap tempo
+- Ability to accept an incoming clock signal to define tempo
+- Last modified tempo becomes the active tempo
+- LED for visually monitoring the current clock signal
 - Tempo modulation via CV input, with attenuator
 - 14 rhythmic interval outputs
   - 1/16
@@ -41,3 +40,4 @@ This module is ideal for a variety of applications, from programming complex dru
   - 5/4
   - 6/4
   - 7/4
+- Reset via button, trig or gate input
