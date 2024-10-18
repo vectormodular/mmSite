@@ -7,7 +7,7 @@ permalink: "/contribute/"
 
 
   
-<br>  
+#<br>  
 **Help Me Innovate!**    
 My goal is to develop innovative modules for the modular community and one day bring them to life as hardware. Your contribution fuels creativity and growth in modular synthesis. 
 <br>  
