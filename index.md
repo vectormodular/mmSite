@@ -3,7 +3,7 @@ layout: splash
 title:  "Welcome"
 permalink: /
 
-hero_image: /assets/images/curModulesLanding.png
+hero_image: assets/images/curModulesLanding.png
 
 feature_row:
   - image_path: assets/images/baseosc.png
