@@ -22,11 +22,11 @@ FM CV input can be atttenuverted, and the reponse can be toggled between linear 
 
 When in LFO mode, the module's LED indicators display output polarity, enhancing visual feedback.
 
-The built-in quantizer supports 19 scales and allows you to choose root notes, with LEDs indicating the current scale + root configuration.
+The built-in quantizer supports 19 scales and allows you to choose the root note, with LEDs indicating the current scale + root configuration.
 
-A global bit reduction parameter for oscillator output allows can be set from 1-bit to 16-bit resolution.
+A global bit reduction parameter for oscillator output can be set from 1-bit to 16-bit resolution.
 
-The baseOsc is ready to be an essential building block for shaping both musical and experimental sounds in your patches.
+The baseOsc is ready to be an essential building block in your patches for shaping both musical and experimental sounds.
 
 ## Features
 
