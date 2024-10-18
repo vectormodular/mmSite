@@ -24,7 +24,7 @@ favicon_48: "/assets/images/favicon-48x48.png"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Vector Modular"
+title                    : Vector Modular
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
