@@ -44,7 +44,7 @@ feature_row2:
   <div style="margin-top: 10px; color: white;">{{ page.hero_caption }}</div>
   {% endif %}
 </div>
-  
+  <p>{{ page.hero_image }}</p>
 <br>  
     
 
