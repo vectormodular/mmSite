@@ -43,8 +43,7 @@ feature_row2:
   {% if page.hero_caption %}
   <div style="margin-top: 10px; color: white;">{{ page.hero_caption }}</div>
   {% endif %}
-</div>
-  <p>{{ page.hero_image }}</p>
+</div> 
 <br>  
     
 
