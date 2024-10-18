@@ -4,7 +4,7 @@ title:  "Contact Vector Modular"
 permalink: "/contact/"
 ---
 <br>
-Questions? Bug? Want to get updates?  
+Questions? Bugs? Want to get updates?  
 
 Great!  
 
