@@ -8,7 +8,7 @@ permalink: "/about/"
 
 When Steve began exploring DIY projects, it marked a pivotal moment. First with Bleep Labs kits and then the Mutable Instruments Shruthi-1, these experiences ignited a profound appreciation for the innovation behind musical devices. Since diving into Eurorack hardware in 2015, Steve has embraced modular synthesis as his primary approach to creating electronic sounds. He currently releases music under the artist name <a href="https://voct.bandcamp.com/" target="_blank">Voct</a>.
 
-Inspired by an exciting idea for a new module, Steve set out to bring it to life. However, he soon realized he didn’t know where to begin. This project aims to develop high-quality modules that fulfill specific roles within a modular system, while also serving as a learning opportunity for the Steve. They would not only fulfill specific roles within a modular system, but also serve as valuable learning opportunities. Vector Modular was born—a project that combines technical precision with dynamic creativity. 
+Inspired by an exciting idea for a new module, Steve set out to bring it to life. However, he soon realized he didn’t know where to begin. Vector Modular was born—a project that seeks to combine technical precision with dynamic creativity. The project aims to develop high-quality modules that fulfill specific roles within a modular system, while also serving as a learning opportunity for Steve.
 
 The name reflects Steve's enthusiasm for vector synthesis and XY control methods. He believes that synthesis can be both technical and expressive. Vector Modular's goal is to develop high-quality, innovative modules that add to the modular community and, ultimately, bring these concepts to life in hardware form. 
 
