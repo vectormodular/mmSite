@@ -1,3 +1,11 @@
+# Vector Modular
+
+**Vector Modular** appreciates the Minimal Mistakes Jekyll theme and thanks its creators for sharing it with the community.
+
+Please note that while the Minimal Mistakes theme is licensed under MIT, all page content and image files created by Vector Modular are copyrighted and do not fall under the MIT license.
+
+Thank you for your understanding.
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
