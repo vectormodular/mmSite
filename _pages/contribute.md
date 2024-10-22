@@ -4,17 +4,15 @@ title:  "Support Vector Modular"
 permalink: "/contribute/"
 ---
 
-
-
 <br>    
 **Help Me Innovate!**    
-My goal is to develop innovative modules for the modular community and one day bring them to life as hardware. Your contribution fuels creativity and growth in modular synthesis. 
+My mission is to create high-quality, innovative, and musical modules for the modular synthesis community, with the dream of one day turning these ideas into physical hardware. Your support drives this vision forward and helps make it all possible.
 <br>  
 **Why Donate?**  
-Every donation helps cover the time and resources needed to create new modules, ensuring I can continue to push the boundaries of sound and design. Together, we can transform ideas into reality. 
+Every contribution helps cover the time, tools, and resources needed to design and release new modules. Your donation supports the ongoing development of unique and inspiring tools for musicians and sound designers, allowing for new possibilities in modular synthesis. 
 <br>  
 **Thank You!**   
-Your support means the world to me. Join me on this exciting journey!
+Your support and generosity mean everything to me. Together, we can transform creative ideas into reality and help build the future of modular sound, fostering a vibrant community that inspires and empowers musicians and creators.
 
 <div id="donate-button-container">
 <div id="donate-button"></div>
