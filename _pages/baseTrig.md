@@ -12,7 +12,7 @@ The baseTrig is a powerful clock and trigger generator for VCV Rack, designed to
 
 With an internal clock generator and the ability to sync to external clock signals, baseTrig offers flexible tempo control for any setup.
 
-Featuring 14 distinct rhythmic interval outputs—including standard notes, triplets, and offbeat options—baseTrig allows you to create intricate patterns that drive drum modules and sequencers
+Featuring 14 distinct rhythmic interval outputs—including standard notes, triplets, and offbeat options—baseTrig allows you to create intricate patterns that drive drum modules and sequencers.
 
 Its intuitive controls, including tap tempo and tempo modulation via CV, enable easy adjustments on the fly. A single red LED blinks on every quarter note, providing a visual cue of the current tempo. 
 
@@ -23,6 +23,7 @@ This module is ideal for a variety of applications, from programming complex dru
 - Internal clock generator, defined via knob or tap tempo
 - Ability to accept an incoming clock signal to define tempo
 - Last modified tempo becomes the active tempo
+  - If clock input is removed, module falls back to last modified knob or tap tempo
 - LED for visually monitoring the current clock signal
 - Tempo modulation via CV input, with attenuator
 - 14 rhythmic interval outputs
