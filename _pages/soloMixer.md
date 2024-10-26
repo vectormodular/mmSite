@@ -6,6 +6,11 @@ permalink: /modules/soloMixer
 <div style="text-align: center;">
     <img src="/assets/images/solomixer.png" alt="soloMixer Module" style="height: 65vh; max-width: 100%;"/>
 </div>
+<div class="feature-button" style="text-align: center; margin: 20px 0;">
+ <a href="https://library.vcvrack.com/VectorModular/SoloMixer" class="btn btn--inverse" target="_blank">
+  Add on VCV Library
+</a>
+</div>
 ## Overview
 
 The soloMixer is a versatile mixer for VCV Rack, designed to give you precise control over three input channels—Red, Green, and Blue.  

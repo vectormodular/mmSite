@@ -6,6 +6,11 @@ permalink: /modules/baseOsc
 <div style="text-align: center;">
     <img src="/assets/images/baseosc.png" alt="baseOsc Module" style="height: 65vh; max-width: 100%;"/>
 </div>
+<div class="feature-button" style="text-align: center; margin: 20px 0;">
+ <a href="https://library.vcvrack.com/VectorModular/BaseOsc" class="btn btn--inverse" target="_blank">
+  Add on VCV Library
+</a>
+</div>
 ## Overview
 
 The baseOsc is a versatile oscillator for VCV Rack, designed to serve as the core of your sound design setup.

@@ -6,6 +6,11 @@ permalink: /modules/baseTrig
 <div style="text-align: center;">
     <img src="/assets/images/basetrig.png" alt="baseTrig Module" style="height: 65vh; max-width: 100%;"/>
 </div>
+<div class="feature-button" style="text-align: center; margin: 20px 0;">
+ <a href="https://library.vcvrack.com/VectorModular/baseTrigs" class="btn btn--inverse" target="_blank">
+  Add on VCV Library
+</a>
+</div>
 ## Overview
 
 The baseTrig is a powerful clock and trigger generator for VCV Rack, designed to enhance your rhythmic creativity.
