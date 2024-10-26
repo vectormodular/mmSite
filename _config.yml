@@ -27,7 +27,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : Vector Modular
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Steve Brenner"
 description              : "Open source software eurorack styled modules for VCV Rack."
 url                      : "https://www.vectormodular.com"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

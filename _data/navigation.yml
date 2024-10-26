@@ -2,6 +2,8 @@
 main:
   - title: "Modules"
     url: "/"
+  - title: "VCV Library"
+    url: "https://library.vcvrack.com/VectorModular"   
   - title: "About"
     url: "/about/"
   - title: "Contribute"
