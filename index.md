@@ -13,9 +13,6 @@ feature_row:
     url: /modules/baseOsc
     btn_label: "Overview"
     btn_class: "btn--inverse"
-    url: https://library.vcvrack.com/VectorModular/BaseOsc
-    btn_label: "VCV Library"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/basetrig.png
     alt: "baseTrig"
     title: "baseTrig"
