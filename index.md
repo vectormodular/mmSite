@@ -13,6 +13,9 @@ feature_row:
     url: /modules/baseOsc
     btn_label: "Overview"
     btn_class: "btn--inverse"
+    url: https://library.vcvrack.com/VectorModular/BaseOsc
+    btn_label: "VCV Library"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/basetrig.png
     alt: "baseTrig"
     title: "baseTrig"
@@ -39,10 +42,12 @@ feature_row2:
 ---
 <br> 
 <div style="text-align: center;">
+  <a href="https://library.vcvrack.com/VectorModular">
   <img src="{{ page.hero_image }}" alt="{{ page.title }}" style="max-width: 85%; height: auto; display: inline-block;">
   {% if page.hero_caption %}
   <div style="margin-top: 10px; color: white;">{{ page.hero_caption }}</div>
   {% endif %}
+  </a>
 </div> 
 <br>  
     
