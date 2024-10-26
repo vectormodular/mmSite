@@ -39,7 +39,7 @@ feature_row2:
 ---
 <br> 
 <div style="text-align: center;">
-  <a href="https://library.vcvrack.com/VectorModular">
+  <a href="https://library.vcvrack.com/VectorModular" target="_blank">
   <img src="{{ page.hero_image }}" alt="{{ page.title }}" style="max-width: 85%; height: auto; display: inline-block;">
   {% if page.hero_caption %}
   <div style="margin-top: 10px; color: white;">{{ page.hero_caption }}</div>
